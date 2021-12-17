@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align='center'>Hey 👋, This is Dnyanesh Tarte</h1>
-<p align='left'>Pronounced: Nyah-nesh Tar-te</p>
 <p align = 'center'> 
  <a href = https://www.linkedin.com/in/tartednyanesh target='blank'<img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a></p>
 <h2 align='center'>About Me🤓</h2>
